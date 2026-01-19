@@ -62,7 +62,7 @@ Key columns:
 - **Pandas**
 - **Matplotlib**
 - **Zipfile**
-- **Jupyter Notebook / Google Colab**
+- **Google Colab**
 
 ---
 
